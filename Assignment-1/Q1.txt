@@ -1,0 +1,5 @@
+Take any colour image. Ensure that the resolution of the image is 512x512. Convert this into a gray scale image.
+Write  python codes to perform any 5 transformations on the image. (Example: obtain the negative of the image.) 
+You are free to use any python package and use appropriate functions for your transformations. 
+It will be great if you can write your own python code ( without using standard library functions). 
+Submit your result as a .ipynb file 
